@@ -1,0 +1,14 @@
+C:\Projetos\classeabstrata\bin\Debug\net8.0\ClasseAbstrata.exe
+C:\Projetos\classeabstrata\bin\Debug\net8.0\ClasseAbstrata.deps.json
+C:\Projetos\classeabstrata\bin\Debug\net8.0\ClasseAbstrata.runtimeconfig.json
+C:\Projetos\classeabstrata\bin\Debug\net8.0\ClasseAbstrata.dll
+C:\Projetos\classeabstrata\bin\Debug\net8.0\ClasseAbstrata.pdb
+C:\Projetos\classeabstrata\obj\Debug\net8.0\ClasseAbstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\classeabstrata\obj\Debug\net8.0\ClasseAbstrata.AssemblyInfoInputs.cache
+C:\Projetos\classeabstrata\obj\Debug\net8.0\ClasseAbstrata.AssemblyInfo.cs
+C:\Projetos\classeabstrata\obj\Debug\net8.0\ClasseAbstrata.csproj.CoreCompileInputs.cache
+C:\Projetos\classeabstrata\obj\Debug\net8.0\ClasseAbstrata.dll
+C:\Projetos\classeabstrata\obj\Debug\net8.0\refint\ClasseAbstrata.dll
+C:\Projetos\classeabstrata\obj\Debug\net8.0\ClasseAbstrata.pdb
+C:\Projetos\classeabstrata\obj\Debug\net8.0\ClasseAbstrata.genruntimeconfig.cache
+C:\Projetos\classeabstrata\obj\Debug\net8.0\ref\ClasseAbstrata.dll
